@@ -1,3 +1,3 @@
-token = '498895411:AAEv2AD990a31b1-AntlJS2p5A2jVMZskUE'
+token = '7515695303:AAEGslztlvsceODJTmRdDoGhwy0RDJXP04M'
 
 # https://api.telegram.org/file/bot<token>/<file_path>
